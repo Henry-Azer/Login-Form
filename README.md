@@ -1,5 +1,5 @@
 # Login-Form (Web)
-Full Back-End web project by Java using Spring Security and MCV with some Front-End using jsp and css and some bootstrap.
+Full Back-End web project by Java using Spring Security and MVC with some Front-End using jsp and css and some bootstrap.
 All focus is on Back-End, access, permission, and user levels.
 
 • At first, it is registered as a user, and in case the error appears,so you enterd an invalid username pr password.
