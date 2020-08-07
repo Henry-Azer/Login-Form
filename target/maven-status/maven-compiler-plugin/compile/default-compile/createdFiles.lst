@@ -1,0 +1,5 @@
+loginform\security\LoginFormSecurityConfig.class
+loginform\config\DispatcherServletInitializer.class
+loginform\controller\LoginFormController.class
+loginform\config\LoginFormConfig.class
+loginform\security\SecurityInitializer.class
