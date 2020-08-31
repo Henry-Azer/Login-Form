@@ -1,4 +1,4 @@
-# Login-Form (Web)
+# Login-Form (Spring Security)
 Full Back-End web project by Java using Spring Security and MVC with some Front-End using jsp and css and some bootstrap.
 All focus is on Back-End, access, permission, and user levels.
 
